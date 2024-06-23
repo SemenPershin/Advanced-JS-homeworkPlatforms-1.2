@@ -1,0 +1,14 @@
+{
+  "name": "advanced-js-homeworkplatforms-1.2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@semenpershin/advanced-js-homeworkplatforms-1": "^1.0.0"
+  }
+}
